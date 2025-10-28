@@ -1,3 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Datos y artefactos
+data/
+models/
+reports/
+*.joblib
+*.csv
+*.json
+
+# Streamlit
+.streamlit/secrets.toml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
